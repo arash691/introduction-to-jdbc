@@ -1,6 +1,4 @@
-# introduction-to-jdbc
-
-## Welcome to the JDBC tutorial! 
+# Welcome to the JDBC tutorial! 
 
 In this tutorial, we will cover the basics of JDBC and gradually move towards more advanced topics, with the aim of helping you understand the core concepts of JDBC and best practices to follow.
 JDBC is a fundamental technology for interacting with relational databases in Java applications, and knowing how to use it effectively is a valuable skill for any Java developer.
